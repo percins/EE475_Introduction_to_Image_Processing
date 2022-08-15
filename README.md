@@ -1,6 +1,6 @@
 # EE475_Introduction_to_Image_Processing
 
-Projects made in the scope of the course "EE475 Introduction to Image Processing" taken at BOUN in semester Fall2021. All assignments were given and hence delivered in MATLAB.
+Homeworks made in the scope of the course "EE475 Introduction to Image Processing" taken at BOUN in semester Fall2021. All assignments were given and hence delivered in MATLAB.
 
 # HWs
 
